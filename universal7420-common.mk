@@ -312,7 +312,6 @@ endif
 #
 PRODUCT_PACKAGES += \
 	HealthService \
-	Jelly \
 	SamsungServiceMode
 
 #

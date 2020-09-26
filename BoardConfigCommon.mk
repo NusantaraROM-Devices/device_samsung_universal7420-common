@@ -116,7 +116,7 @@ TARGET_LD_SHIM_LIBS += \
 #
 # Charger
 #
-WITH_LINEAGE_CHARGER := false
+#WITH_LINEAGE_CHARGER := false
 BACKLIGHT_PATH := /sys/devices/13900000.dsim/backlight/panel/brightness
 BOARD_BATTERY_DEVICE_NAME := battery
 BOARD_CHARGER_ENABLE_SUSPEND := true
