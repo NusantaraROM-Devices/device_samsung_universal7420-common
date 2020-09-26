@@ -437,8 +437,8 @@ PRODUCT_PACKAGES += \
 #
 # Trust
 #
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.trust@1.0-service
 
 #
 # USB
