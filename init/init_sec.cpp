@@ -163,6 +163,10 @@ else if (bootloader.find("G928") != string::npos) {
     } else if (bootloader.find("G928W8") != string::npos) {	
         model = "SM-G928W8";
         device = "zenltecan";
+    } else if (bootloader.find("G9287C") != string::npos) {	
+	model = "SM-G9287C";
+	device = "zenltezt";
+	dualsim = true;
     }
 }
 
